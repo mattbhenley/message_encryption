@@ -8,3 +8,5 @@ Using the "Caesar cipher", we can encrypt and decrypt messages.
 ![CaesarWheel2](https://github.com/mattbhenley/Images/blob/master/caeserwheel2.png)
 
 Users will be able to enter a message, it will then be encrypted. 
+
+![Result](https://github.com/mattbhenley/Images/blob/master/cipher_result.png)
